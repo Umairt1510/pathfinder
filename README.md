@@ -23,6 +23,7 @@
 
 ## Key Features
 
+* Open the weighted node menu by clicking the "Dijkstra" menu
 * Weight of Heavy Blocks: 15
 * Weight of Medium Blocks: 10
 * Weight of Light Blocks: 6
