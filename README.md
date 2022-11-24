@@ -11,14 +11,14 @@
 <h2>Dijkstra's Algorithm</h2>
 <p> The Dijkstra's Algorithm is weighted and finds the path from the starting and ending node with the smallest cost.</p> 
 
-![diij1](https://user-images.githubusercontent.com/118224368/203710100-5317f5d3-cef5-4394-8d12-d05cfc80bc62.png)
-![diij2](https://user-images.githubusercontent.com/118224368/203710106-13f40843-cc04-474a-8033-09c0d0bb77fd.png)
+![diij1](https://user-images.githubusercontent.com/118224368/203713775-1f10deb6-43fe-439d-aa02-9a066d997397.png)
+![diij2](https://user-images.githubusercontent.com/118224368/203713786-8c7266e7-5d5b-4617-ba76-1fd5bcb310cc.png)
 
 <h2>Breadth-First Search</h2>
 <p>A Breadth-First Search is unweighted and finds the smallest path between the starting and ending node.</p>
 
-![bf1](https://user-images.githubusercontent.com/118224368/203710922-cdd6a948-14c0-4213-9db4-3cde0fd8229d.png)
-![bf2](https://user-images.githubusercontent.com/118224368/203710929-4865d22f-4d68-40e7-a7dd-e92fd60338b2.png)
+![bf1](https://user-images.githubusercontent.com/118224368/203713942-6f3ecb63-5fdd-4e50-b8b6-b752bf469fb4.png)
+![bf2](https://user-images.githubusercontent.com/118224368/203713946-45988b79-7022-4eea-887c-2ec6800cd3f2.png)
 
 
 ## Key Features
